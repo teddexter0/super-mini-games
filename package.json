@@ -1,0 +1,1 @@
+{"name":"super-mini-games","version":"1.0.0","private":true,"type":"module","description":"Fun Centre — a playful home for five early apps","scripts":{"dev":"node server.mjs","start":"node server.mjs","check":"node --check app.js && node --check scene.js && node --check server.mjs"}}
